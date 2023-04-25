@@ -6,19 +6,19 @@
   url: https://journals.aps.org/
 
 "CVPR":
-  color: "#0076df"
+  color: "#00369f"
 
 "ICML":
-  color: "#0076df"
+  color: "#00369f"
 
 "ICLR":
-  color: "#0076df"
+  color: "#00369f"
 
 "NeurIPS":
-  color: "#0076df"
+  color: "#00369f"
 
 "ICCV":
-  color: "#0076df"
+  color: "#00369f"
 
 "arxiv":
-  color: "#212529"
+  color: "#009f06"
