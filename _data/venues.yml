@@ -7,3 +7,18 @@
 
 "CVPR":
   color: "#0076df"
+
+"ICML":
+  color: "#0076df"
+
+"ICLR":
+  color: "#0076df"
+
+"NeurIPS":
+  color: "#0076df"
+
+"ICCV":
+  color: "#0076df"
+
+"arxiv":
+  color: "#212529"
