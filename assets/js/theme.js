@@ -69,12 +69,13 @@ let transTheme = () => {
 
 
 let initTheme = (theme) => {
-  if (theme == null || theme == 'null') {
-    const userPref = window.matchMedia;
-    if (userPref && userPref('(prefers-color-scheme: dark)').matches) {
-        theme = 'dark';
-    }
-  }
+  // if (theme == null || theme == 'null') {
+  //   const userPref = window.matchMedia;
+  //   if (userPref && userPref('(prefers-color-scheme: dark)').matches) {
+  //       theme = 'dark';
+  //   }
+  // }
+  theme = 'dark';
 
   setTheme(theme);
 }
