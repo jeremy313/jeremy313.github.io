@@ -34,7 +34,7 @@
   display: block;
 }
 
-html[data-theme=light] {
+html[data-theme=dark] {
   --global-bg-color: #ffffff;
   --global-code-bg-color: rgba(181, 9, 172, 0.05);
   --global-text-color: #000000;
@@ -48,18 +48,18 @@ html[data-theme=light] {
   --global-divider-color: rgba(0,0,0,.1);
   --global-card-bg-color: #ffffff;
 }
-html[data-theme=light] .fa-sun {
+html[data-theme=dark] .fa-sun {
   display: none;
 }
-html[data-theme=light] .fa-moon {
+html[data-theme=dark] .fa-moon {
   padding-left: 10px;
   padding-top: 12px;
   display: block;
 }
-html[data-theme=light] .repo-img-light {
+html[data-theme=dark] .repo-img-light {
   display: block;
 }
-html[data-theme=light] .repo-img-dark {
+html[data-theme=dark] .repo-img-dark {
   display: none;
 }
 
