@@ -5,4 +5,5 @@
 "PhysRev":
   url: https://journals.aps.org/
 
-
+"CVPR":
+  color: "#0076df"
