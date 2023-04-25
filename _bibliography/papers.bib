@@ -1,6 +1,21 @@
 ---
 ---
 
+
+
+@article{sun2022fedsea,
+abbr={SenSys},
+bibtex_show={true},
+  title={FedSEA: A Semi-Asynchronous Federated Learning Framework for Extremely Heterogeneous Devices},
+  author={Sun, Jingwei and Li, Ang and Duan, Lin and Alam, Samiul and Deng, Xuliang and Guo, Xin and Wang, Haiming and Gorlatova, Maria and Zhang, Mi and Li, Hai and others},
+  abstract = {Federated learning (FL) has attracted increasing attention as a promising technique to drive a vast number of edge devices with artificial intelligence. However, it is very challenging to guarantee the efficiency of a FL system in practice due to the heterogeneous computation resources on different devices. To improve the efficiency of FL systems in the real world, asynchronous FL (AFL) and semi-asynchronous FL (SAFL) methods are proposed such that the server does not need to wait for stragglers. However, existing AFL and SAFL systems suffer from poor accuracy and low efficiency in realistic settings where the data is non-IID distributed across devices and the on-device resources are extremely heterogeneous. In this work, we propose FedSEA - a semi-asynchronous FL framework for extremely heterogeneous devices. We theoretically disclose that the unbalanced aggregation frequency is a root cause of accuracy drop in SAFL. Based on this analysis, we design a training configuration scheduler to balance the aggregation frequency of devices such that the accuracy can be improved. To improve the efficiency of the system in realistic settings where the devices have dynamic on-device resource availability, we design a scheduler that can efficiently predict the arriving time of local updates from devices and adjust the synchronization time point according to the devices' predicted arriving time. We also consider the extremely heterogeneous settings where there exist extremely lagging devices that take hundreds of times as long as the training time of the other devices. In the real world, there might be even some extreme stragglers which are not capable of training the global model. To enable these devices to join in training without impairing the systematic efficiency, Fed-SEA enables these extreme stragglers to conduct local training on much smaller models. Our experiments show that compared with status quo approaches, FedSEA improves the inference accuracy by 44.34% and reduces the systematic time cost and local training time cost by 87.02X and 792.9X. FedSEA also reduces the energy consumption of the devices with extremely limited resources by 752.9X.},
+  booktitle={Proceedings of the 20th ACM Conference on Embedded Networked Sensor Systems},
+  pdf={https://www.researchgate.net/profile/Mi-Zhang-13/publication/366702532_FedSEA_A_Semi-Asynchronous_Federated_Learning_Framework_for_Extremely_Heterogeneous_Devices/links/63af5e0da03100368a3dd71d/FedSEA-A-Semi-Asynchronous-Federated-Learning-Framework-for-Extremely-Heterogeneous-Devices.pdf},
+  html={https://doi.org/10.1145/3560905.3568538},
+  year={2022},
+  selected={true}
+}
+
 @inproceedings{li2021lotteryfl,
 abbr={SEC},
 bibtex_show={true},
@@ -62,18 +77,6 @@ bibtex_show={true},
   selected={true}
 }
 
-@article{sun2022fedsea,
-abbr={SenSys},
-bibtex_show={true},
-  title={FedSEA: A Semi-Asynchronous Federated Learning Framework for Extremely Heterogeneous Devices},
-  author={Sun, Jingwei and Li, Ang and Duan, Lin and Alam, Samiul and Deng, Xuliang and Guo, Xin and Wang, Haiming and Gorlatova, Maria and Zhang, Mi and Li, Hai and others},
-  abstract = {Federated learning (FL) has attracted increasing attention as a promising technique to drive a vast number of edge devices with artificial intelligence. However, it is very challenging to guarantee the efficiency of a FL system in practice due to the heterogeneous computation resources on different devices. To improve the efficiency of FL systems in the real world, asynchronous FL (AFL) and semi-asynchronous FL (SAFL) methods are proposed such that the server does not need to wait for stragglers. However, existing AFL and SAFL systems suffer from poor accuracy and low efficiency in realistic settings where the data is non-IID distributed across devices and the on-device resources are extremely heterogeneous. In this work, we propose FedSEA - a semi-asynchronous FL framework for extremely heterogeneous devices. We theoretically disclose that the unbalanced aggregation frequency is a root cause of accuracy drop in SAFL. Based on this analysis, we design a training configuration scheduler to balance the aggregation frequency of devices such that the accuracy can be improved. To improve the efficiency of the system in realistic settings where the devices have dynamic on-device resource availability, we design a scheduler that can efficiently predict the arriving time of local updates from devices and adjust the synchronization time point according to the devices' predicted arriving time. We also consider the extremely heterogeneous settings where there exist extremely lagging devices that take hundreds of times as long as the training time of the other devices. In the real world, there might be even some extreme stragglers which are not capable of training the global model. To enable these devices to join in training without impairing the systematic efficiency, Fed-SEA enables these extreme stragglers to conduct local training on much smaller models. Our experiments show that compared with status quo approaches, FedSEA improves the inference accuracy by 44.34% and reduces the systematic time cost and local training time cost by 87.02X and 792.9X. FedSEA also reduces the energy consumption of the devices with extremely limited resources by 752.9X.},
-  booktitle={Proceedings of the 20th ACM Conference on Embedded Networked Sensor Systems},
-  pdf={https://www.researchgate.net/profile/Mi-Zhang-13/publication/366702532_FedSEA_A_Semi-Asynchronous_Federated_Learning_Framework_for_Extremely_Heterogeneous_Devices/links/63af5e0da03100368a3dd71d/FedSEA-A-Semi-Asynchronous-Federated-Learning-Framework-for-Extremely-Heterogeneous-Devices.pdf},
-  html={https://doi.org/10.1145/3560905.3568538},
-  year={2022},
-  selected={true}
-}
 
 @article{zhang2022fed,
 abbr={ICML},

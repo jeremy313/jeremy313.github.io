@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Duke</a>. Contacts. Moto. Etc.
 
 profile:
   align: right
