@@ -6,13 +6,13 @@
  * Themes
  ******************************************************************************/
 :root {
-  --global-bg-color: #1C1C1D;
+  --global-bg-color: #f3f6f6;
   --global-code-bg-color: #2c3237;
-  --global-text-color: #e8e8e8;
+  --global-text-color: #40514e;
   --global-text-color-light: #e8e8e8;
-  --global-theme-color: #2698BA;
-  --global-hover-color: #2698BA;
-  --global-footer-bg-color: #e8e8e8;
+  --global-theme-color: #11999e;
+  --global-hover-color: #40514e;
+  --global-footer-bg-color: #30e3ca;
   --global-footer-text-color: #1C1C1D;
   --global-footer-link-color: #000000;
   --global-distill-app-color: #e8e8e8;
