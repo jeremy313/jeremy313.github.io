@@ -8,6 +8,7 @@ profile:
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   address: >
+    <p>jingwei.sun@duke.edu</p>
     <p>Durham, NC, USA</p>
 
 news: false  # includes a list of news items
