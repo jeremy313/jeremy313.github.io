@@ -567,6 +567,9 @@ footer.sticky-bottom {
   font-weight: bolder;
   color: red;
 }
+.publications ol.bibliography li .red-text {
+  color: red;
+}
 .publications ol.bibliography li .author a {
   border-bottom: 1px dashed var(--global-theme-color);
 }
