@@ -31,10 +31,13 @@
         <!-- Title -->
         <div class="title">{{entry.title}}</div>
         <!-- Award -->
-        {%- if entry.award -%}
+        <!-- {%- if entry.award -%}
         <div class="award">
           {{entry.award}}
         </div>
+        {%- endif -%} -->
+        {%- if entry.award -%}
+        <p class="red-text">entry.award</p>
         {%- endif -%}
         <!-- Author -->
         <div class="author">
