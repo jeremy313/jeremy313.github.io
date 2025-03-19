@@ -8,7 +8,7 @@ profile:
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>jingwei.sun@duke.edu</p>
+    <p>jingwei DOT sun AT duke DOT edu</p>
     <p>Durham, NC, USA</p>
 
 news: false  # includes a list of news items
@@ -18,6 +18,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I am currently a Ph.D. candidate in the Electrical and Computer Engineering department at Duke University under the supervision of Professor Yiran Chen and Hai "Helen" Li in Duke CEI Lab. My research interests lie in edge intelligent systems and trustworthy AI, with a focus on collaborative intelligent systems, edge computing systems, and on-device AI with an awareness of efficiency, security, and privacy.
+
+**Openings:** I will join the Department of Computer & Information Science & Engineering (CISE) at University of Florida as an assistant professor in 2025 Fall. I’m looking for highly motivated Ph.D., master students, and research interns to join my group. If you are interested, please send an email to jingwei.sun@duke.edu with your CV and transcripts attached.
 
 
 #### My main research interests:
@@ -35,4 +37,3 @@ I am currently a Ph.D. candidate in the Electrical and Computer Engineering depa
   -- [Data Privacy Preservation](https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_Soteria_Provable_Defense_Against_Privacy_Leakage_in_Federated_Learning_From_CVPR_2021_paper.pdf)  
   -- [Robust Collaborative Intelligence System](https://proceedings.neurips.cc/paper_files/paper/2021/file/692baebec3bb4b53d7ebc3b9fabac31b-Paper.pdf)  
   -- [Training Data Detection for LLMs](https://zjysteven.github.io/mink-plus-plus/)  
-
