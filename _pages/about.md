@@ -9,7 +9,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>sun DOT jingwei AT ufl DOT edu</p>
-    <p>Durham, NC, USA</p>
+    <p>Gainesville, FL, USA</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am an assistant professor in the Department of Computer & Information Science & Engineering at the University of Florida. I got my Ph.D. degree in the Electrical and Computer Engineering department at Duke University under the supervision of Professor Yiran Chen and Hai "Helen" Li in Duke CEI Lab. My research interests lie in edge intelligent systems, with a focus on collaborative intelligent systems, edge computing systems, and on-device AI with an awareness of efficiency, personalization, and robustness.
 
-**Openings:** I’m always looking for highly motivated Ph.D., master students, and research interns to join my group. If you are interested, please send an email to sun.jingwei@ufl.edu with your CV and transcripts attached.
+**Openings:** I’m always looking for highly motivated Ph.D., master students, and research interns to join my group. If you are interested, please send me an email with your CV and transcripts attached.
 
 
 #### My main research interests:
