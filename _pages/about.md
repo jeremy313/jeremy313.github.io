@@ -26,7 +26,8 @@ I am an assistant professor in the Department of Computer & Information Science 
 
 * Efficient AI inference  
   -- [Coding agent](/assets/pdf/LatentGate.pdf)  
-  -- [VLM](https://openreview.net/pdf?id=VO7peYSVkv)
+  -- [LLM on the edge](https://arxiv.org/pdf/2605.11186)  
+  -- [VLM](https://openreview.net/pdf?id=VO7peYSVkv)  
   -- [VLA](https://arxiv.org/pdf/2605.02739)  
   -- [Diffusion model](https://openreview.net/pdf?id=ThMQfsBnje)
 
@@ -34,7 +35,7 @@ I am an assistant professor in the Department of Computer & Information Science 
   -- [Knowledge Graph Tuning](https://arxiv.org/abs/2405.19686)  
   -- [Backpropagation-free Prompt Tuning on Edge Devices](https://jingwei-sun.com/FedBPT/)  
 
-* Collaborative Edge AI 
+* Collaborative Edge AI  
   -- [Edge-cloud Collaborative Inference](https://openreview.net/pdf?id=tdZLKY9usl)  
   -- [Cross-silo Collaborative Inference](https://openaccess.thecvf.com/content/ICCV2023/papers/Sun_Communication-Efficient_Vertical_Federated_Learning_with_Limited_Overlapping_Samples_ICCV_2023_paper.pdf)  
   -- [Heterogeneous Federated Learning](https://dl.acm.org/doi/abs/10.1145/3560905.3568538)  
